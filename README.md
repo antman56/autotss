@@ -51,4 +51,4 @@ boardconfig = n69uap
 * [tsschecker](https://github.com/tihmstar/tsschecker)
 
 ## To Do
-- [ ] Add support for Beta/OTA firmwares
+- [ ] Add support for specifying apnonce (for saving A12 blobs)
